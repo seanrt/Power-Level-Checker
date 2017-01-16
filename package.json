@@ -1,0 +1,24 @@
+{
+  "name": "power-lvl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "dependencies": {
+    "azure": "^1.2.0-preview"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node first.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanrt/Power-Level-Checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanrt/Power-Level-Checker/issues"
+  },
+  "homepage": "https://github.com/seanrt/Power-Level-Checker#readme"
+}
