@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "first.js",
-  "dependencies": {
-    "azure": "^1.2.0-preview"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "start" : "node first.js",
