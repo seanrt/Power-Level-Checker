@@ -5,6 +5,11 @@ var pwrlvl = function () {
     if (result > 9000) {
         result += " IT'S OVER 9000!!!!!";
     }
+
+    if (result < 2000) {
+        result += "HEUGHHHHH";
+    }
+
     return result
 };
 var port = process.env.PORT || 3000;
